@@ -34,7 +34,7 @@ README.md
 requirements.txt
 ```
 
-As pastas: `base_de_dados`, `codigo_python` e `stata` são as subdivisões por ferramentas utilizadas. Em cada uma das pastas está um `README.md` para informar sobre os requisitos e os procedimentos.
+As pastas `base_de_dados`, `codigo_python` e `stata` são as subdivisões por ferramentas utilizadas. Em cada uma das pastas está um `README.md` para informar sobre os requisitos e os procedimentos.
 
 O ficheiro `requirements.txt` é necessário por causa do código executado em python e é onde estão identificadas as bibliotecas necessárias.
 
