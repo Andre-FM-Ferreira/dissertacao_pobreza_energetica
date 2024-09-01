@@ -1,0 +1,15 @@
+Verificação dos dados:
+
+	Dados têm 267/278 municípios - faltam 11 município(s) (3.957%)
+
+	Dados têm 2842/2882 freguesias - faltam 40 freguesia(s) (1.388%)
+
+	Municípios em falta: Alcoutim; Alpiarça; Alvito; Barrancos; Castanheira de Pêra; Mealhada; Monforte; Mourão; Penedono; São Brás de Alportel; São João da Madeira
+
+	Municípios a mais (por possíveis erros nos dados): 
+
+	Freguesias em falta: Alpiarça; Alvito; Assumar; Barcouço; Barrancos; Beselga; Casal Comba; Castainço; Giões; Granja; Loureiro; Louro; Luso; Luz; Martim Longo; Monforte; Moreira de Cónegos; Mourão; Nine; Pampilhosa; Penela da Beira; Póvoa de Penela; Roriz; Santo Aleixo; Souto; São Brás de Alportel; São João da Madeira; União das freguesias da Mealhada, Ventosa do Bairro e Antes; União das freguesias de Alcoutim e Pereiro; União das freguesias de Antas e Ourozinho; União das freguesias de Castanheira de Pêra e Coentral; União das freguesias de Gondifelos, Cavalões e Outiz; União das freguesias de Lemenhe, Mouquim e Jesufrei; União das freguesias de Penedono e Granja; União das freguesias de Ruivães e Novais; Vacariça; Vaiamonte; Vaqueiros; Vila Nova da Baronia; Vilarinho
+
+	Freguesias a mais (por possíveis erros nos dados): 
+
+	Freguesias em falta não incluídas nos municípios em falta: Loureiro; Louro; Moreira de Cónegos; Nine; Roriz; União das freguesias de Gondifelos, Cavalões e Outiz; União das freguesias de Lemenhe, Mouquim e Jesufrei; União das freguesias de Ruivães e Novais; Vilarinho

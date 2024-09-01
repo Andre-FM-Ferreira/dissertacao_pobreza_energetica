@@ -1,0 +1,309 @@
+codigo_municipal,municipio,partido,percentagem_votos,numero_votos,presidentes,maiorias_absolutas,numero_mandatos,orientacao,dummy_direita,dummy_esquerda
+101,Águeda,PPD/PSD.MPT,44.77,9991,1,1,4,direita,1,0
+102,Albergaria-a-Velha,CDS-PP,59.7,7970,1,1,5,direita,1,0
+103,Anadia,MIAP,45.34,6231,1,1,4,independente,0,0
+104,Arouca,PS,50.32,6981,1,1,4,esquerda,0,1
+105,Aveiro,PPD/PSD.CDS-PP.PPM,51.26,17549,1,1,6,direita,1,0
+106,Castelo de Paiva,PPD/PSD,40.04,4375,1,0,3,direita,1,0
+107,Espinho,PS,40.23,6618,1,1,4,esquerda,0,1
+108,Estarreja,PPD/PSD.CDS-PP,52.31,6014,1,1,4,direita,1,0
+109,Santa Maria da Feira,PPD/PSD,48.91,34177,1,1,7,direita,1,0
+110,Ílhavo,UPF,33.46,5471,1,0,3,independente,0,0
+111,Mealhada,MMMI,37.82,3615,1,0,3,independente,0,0
+112,Murtosa,PPD/PSD,71.1,3334,1,1,4,direita,1,0
+113,Oliveira de Azeméis,PS,54.87,17730,1,1,6,esquerda,0,1
+114,Oliveira do Bairro,CDS-PP,45.58,4984,1,1,4,direita,1,0
+115,Ovar,PPD/PSD,57.01,15329,1,1,7,direita,1,0
+116,São João da Madeira,PS,51.6,5009,1,1,4,esquerda,0,1
+117,Sever do Vouga,PPD/PSD,43.51,3212,1,0,3,direita,1,0
+118,Vagos,PPD/PSD,60.7,7087,1,1,6,direita,1,0
+119,Vale de Cambra,CDS-PP,58.19,7519,1,1,5,direita,1,0
+201,Aljustrel,PS,47.54,2592,1,1,3,esquerda,0,1
+202,Almodôvar,PS,70.84,3144,1,1,4,esquerda,0,1
+203,Alvito,PS,49.66,658,1,1,3,esquerda,0,1
+204,Barrancos,PCP-PEV,46.5,465,1,0,2,esquerda,0,1
+205,Beja,PS,39.14,6336,1,0,3,esquerda,0,1
+206,Castro Verde,PS,58.43,2309,1,1,3,esquerda,0,1
+207,Cuba,PCP-PEV,56.1,1517,1,1,3,esquerda,0,1
+208,Ferreira do Alentejo,PS,46.04,1678,1,1,3,esquerda,0,1
+209,Mértola,PS,57.61,2449,1,1,4,esquerda,0,1
+210,Moura,PS,40.31,2813,1,0,3,esquerda,0,1
+211,Odemira,PS,46.66,5577,1,1,5,esquerda,0,1
+212,Ourique,PS,53.1,1740,1,1,3,esquerda,0,1
+213,Serpa,PCP-PEV,43.07,3058,1,1,4,esquerda,0,1
+214,Vidigueira,PCP-PEV,48.58,1545,1,1,3,esquerda,0,1
+301,Amares,PPD/PSD.CDS-PP,51.95,5793,1,1,4,direita,1,0
+302,Barcelos,PPD/PSD.CDS-PP,45.39,33753,1,1,6,direita,1,0
+303,Braga,PPD/PSD.CDS-PP.PPM.A,42.89,40585,1,1,6,direita,1,0
+304,Cabeceiras de Basto,PS,42.09,4715,1,0,3,esquerda,0,1
+305,Celorico de Basto,PPD/PSD,44.8,5507,1,0,3,direita,1,0
+306,Esposende,PPD/PSD,58.41,11499,1,1,6,direita,1,0
+307,Fafe,PS,53.79,16270,1,1,5,esquerda,0,1
+308,Guimarães,PS,48.06,43684,1,1,7,esquerda,0,1
+309,Póvoa de Lanhoso,PS,47.88,7419,1,1,4,esquerda,0,1
+310,Terras de Bouro,PPD/PSD,76.08,3493,1,1,5,direita,1,0
+311,Vieira do Minho,PPD/PSD,57.44,5190,1,1,4,direita,1,0
+312,Vila Nova de Famalicão,PPD/PSD.CDS-PP,52.88,40143,1,1,7,direita,1,0
+313,Vila Verde,PPD/PSD,53.77,14445,1,1,5,direita,1,0
+314,Vizela,PS,74.09,10198,1,1,6,esquerda,0,1
+401,Alfândega da Fé,PS,51.71,2026,1,1,3,esquerda,0,1
+402,Bragança,PPD/PSD,57.51,10307,1,1,5,direita,1,0
+403,Carrazeda de Ansiães,PPD/PSD,59.65,2321,1,1,4,direita,1,0
+404,Freixo de Espada à Cinta,PS,62.97,1580,1,1,3,esquerda,0,1
+405,Macedo de Cavaleiros,PS,48.51,5076,1,1,4,esquerda,0,1
+406,Miranda do Douro,PPD/PSD.CDS-PP,54.15,2892,1,1,3,direita,1,0
+407,Mirandela,PS,51.88,7381,1,1,4,esquerda,0,1
+408,Mogadouro,PPD/PSD,48.74,3362,1,1,3,direita,1,0
+409,Torre de Moncorvo,PPD/PSD.CDS-PP,52.11,2882,1,1,3,direita,1,0
+410,Vila Flor,PPD/PSD.CDS-PP,53.77,2491,1,1,3,direita,1,0
+411,Vimioso,PPD/PSD,63.38,2020,1,1,4,direita,1,0
+412,Vinhais,PS,50.67,3421,1,1,3,esquerda,0,1
+501,Belmonte,PS,41.59,1515,1,0,2,esquerda,0,1
+502,Castelo Branco,PS,35.95,9813,1,0,3,esquerda,0,1
+503,Covilhã,PS,46.24,11946,1,1,4,esquerda,0,1
+504,Fundão,PPD/PSD,56.74,8181,1,1,5,direita,1,0
+505,Idanha-a-Nova,PS,53.69,2831,1,1,3,esquerda,0,1
+506,Oleiros,PPD/PSD,51.3,1760,1,1,3,direita,1,0
+507,Penamacor,PS,57.54,1816,1,1,3,esquerda,0,1
+508,Proença-a-Nova,PS,64.57,2812,1,1,4,esquerda,0,1
+509,Sertã,PS,47.66,4249,1,1,4,esquerda,0,1
+510,Vila de Rei,PPD/PSD,61.26,1213,1,1,4,direita,1,0
+511,Vila Velha de Ródão,PS,73.73,1409,1,1,4,esquerda,0,1
+601,Arganil,PPD/PSD,59.33,3723,1,1,5,direita,1,0
+602,Cantanhede,PPD/PSD,55.31,9941,1,1,5,direita,1,0
+603,Coimbra,PPD/PSD.CDS-PP.NC.PPM.A.RIR.VP,43.92,29349,1,1,6,direita,1,0
+604,Condeixa-a-Nova,PS,44.01,3479,1,1,4,esquerda,0,1
+605,Figueira da Foz,FAP,40.39,12528,1,0,4,independente,0,0
+606,Góis,PPD/PSD,40.41,1022,1,0,2,direita,1,0
+607,Lousã,PS,52.94,4474,1,1,4,esquerda,0,1
+608,Mira,PPD/PSD,59.06,4383,1,1,5,direita,1,0
+609,Miranda do Corvo,PS,45.41,2983,1,1,4,esquerda,0,1
+610,Montemor-o-Velho,PS,50.61,6811,1,1,4,esquerda,0,1
+611,Oliveira do Hospital,PS,56.21,6677,1,1,4,esquerda,0,1
+612,Pampilhosa da Serra,PPD/PSD,61.23,1554,1,1,4,direita,1,0
+613,Penacova,PPD/PSD,46.39,3863,1,1,4,direita,1,0
+614,Penela,PS,56.66,1846,1,1,3,esquerda,0,1
+615,Soure,PS,45.04,4166,1,1,4,esquerda,0,1
+616,Tábua,PS,52.49,3635,1,1,4,esquerda,0,1
+617,Vila Nova de Poiares,PS,59.33,2022,1,1,3,esquerda,0,1
+701,Alandroal,PS,56.99,1754,1,1,4,esquerda,0,1
+702,Arraiolos,PCP-PEV,58.98,2180,1,1,4,esquerda,0,1
+703,Borba,MUB,43.04,1583,1,1,3,independente,0,0
+704,Estremoz,PS,35.32,2361,1,0,3,esquerda,0,1
+705,Évora,PCP-PEV,27.44,6413,1,0,2,esquerda,0,1
+706,Montemor-o-Novo,PS,40.15,3410,1,0,3,esquerda,0,1
+707,Mora,PS,48.12,1227,1,1,3,esquerda,0,1
+708,Mourão,PPD/PSD.CDS-PP,47.14,743,1,1,3,direita,1,0
+709,Portel,PS,56.67,2043,1,1,3,esquerda,0,1
+710,Redondo,PPD/PSD.CDS-PP,43.73,1527,1,1,3,direita,1,0
+711,Reguengos de Monsaraz,PPD/PSD,48.62,2502,1,1,3,direita,1,0
+712,Vendas Novas,PS,41.53,2421,1,0,2,esquerda,0,1
+713,Viana do Alentejo,PCP-PEV,37.36,1138,1,0,2,esquerda,0,1
+714,Vila Viçosa,PPD/PSD.CDS-PP.MPT.PPM,51.45,2213,1,1,3,direita,1,0
+801,Albufeira,PPD/PSD.CDS-PP.MPT.PPM,32.04,4954,1,0,3,direita,1,0
+802,Alcoutim,PS,55.07,1031,1,1,3,esquerda,0,1
+803,Aljezur,PS,44.69,1215,1,1,3,esquerda,0,1
+804,Castro Marim,PPD/PSD,56.18,1892,1,1,3,direita,1,0
+805,Faro,PPD/PSD.CDS-PP.IL.MPT.PPM,47.76,12195,1,1,6,direita,1,0
+806,Lagoa,PS,51.46,4884,1,1,5,esquerda,0,1
+807,Lagos,PS,53.47,5528,1,1,5,esquerda,0,1
+808,Loulé,PS,55.44,13827,1,1,6,esquerda,0,1
+809,Monchique,PS,49.61,1590,1,1,3,esquerda,0,1
+810,Olhão,PS,49.2,7609,1,1,5,esquerda,0,1
+811,Portimão,PS,39.88,8606,1,1,5,esquerda,0,1
+812,São Brás de Alportel,PS,58.56,2860,1,1,3,esquerda,0,1
+813,Silves,PCP-PEV,43.1,6457,1,1,4,esquerda,0,1
+814,Tavira,PS,43.71,5273,1,1,4,esquerda,0,1
+815,Vila do Bispo,PS,33.07,869,1,0,2,esquerda,0,1
+816,Vila Real de Santo António,PS,37.12,3477,1,0,3,esquerda,0,1
+901,Aguiar da Beira,UPNT,52.16,2194,1,1,3,independente,0,0
+902,Almeida,PPD/PSD,49.74,2086,1,1,3,direita,1,0
+903,Celorico da Beira,PPD/PSD,56.16,2830,1,1,3,direita,1,0
+904,Figueira de Castelo Rodrigo,PPD/PSD,47.63,1882,1,1,3,direita,1,0
+905,Fornos de Algodres,PS,60.33,1945,1,1,3,esquerda,0,1
+906,Gouveia,PPD/PSD,50.09,3516,1,1,4,direita,1,0
+907,Guarda,PG,36.22,8559,1,0,3,independente,0,0
+908,Manteigas,MANTEIGAS 2030,34.14,758,1,0,2,independente,0,0
+909,Mêda,PPD/PSD.CDS-PP,49.78,1716,1,1,3,direita,1,0
+910,Pinhel,PPD/PSD,66.64,3629,1,1,4,direita,1,0
+911,Sabugal,PPD/PSD,47.09,3403,1,1,4,direita,1,0
+912,Seia,PS,43.68,5618,1,1,4,esquerda,0,1
+913,Trancoso,PS,59.71,3461,1,1,3,esquerda,0,1
+914,Vila Nova de Foz Côa,PPD/PSD,51.3,2287,1,1,3,direita,1,0
+1001,Alcobaça,PPD/PSD,43.18,11919,1,1,4,direita,1,0
+1002,Alvaiázere,PPD/PSD,40.74,1577,1,1,3,direita,1,0
+1003,Ansião,PS,47.98,3449,1,1,4,esquerda,0,1
+1004,Batalha,BTMI,46.48,4070,1,1,4,independente,0,0
+1005,Bombarral,PS,41.13,2602,1,1,4,esquerda,0,1
+1006,Caldas da Rainha,VM,40.7,9037,1,0,3,independente,0,0
+1007,Castanheira de Pêra,PS,40.02,748,1,0,2,esquerda,0,1
+1008,Figueiró dos Vinhos,PS,43.63,1585,1,0,2,esquerda,0,1
+1009,Leiria,PS,52.47,31658,1,1,8,esquerda,0,1
+1010,Marinha Grande,+MPM,38.31,6408,1,0,3,independente,0,0
+1011,Nazaré,PS,44.9,2846,1,1,4,esquerda,0,1
+1012,Óbidos,PPD/PSD,45.19,2724,1,1,4,direita,1,0
+1013,Pedrógão Grande,PPD/PSD,52.62,1084,1,1,3,direita,1,0
+1014,Peniche,GCEPP,30.0,3706,1,0,2,independente,0,0
+1015,Pombal,PPD/PSD,61.07,14006,1,1,5,direita,1,0
+1016,Porto de Mós,PPD/PSD,55.87,7347,1,1,4,direita,1,0
+1101,Alenquer,PS,42.41,7659,1,1,5,esquerda,0,1
+1102,Arruda dos Vinhos,PS,64.99,4482,1,1,5,esquerda,0,1
+1103,Azambuja,PS,39.76,3672,1,0,3,esquerda,0,1
+1104,Cadaval,PPD/PSD,52.23,3517,1,1,4,direita,1,0
+1105,Cascais,PPD/PSD.CDS-PP,52.55,41962,1,1,7,direita,1,0
+1106,Lisboa,PPD/PSD.CDS-PP.A.MPT.PPM,34.26,83163,1,0,7,direita,1,0
+1107,Loures,PS,31.52,25777,1,0,4,esquerda,0,1
+1108,Lourinhã,PS,45.18,5834,1,1,4,esquerda,0,1
+1109,Mafra,PPD/PSD,57.43,20295,1,1,7,direita,1,0
+1110,Oeiras,IN-OV,50.86,38776,1,1,8,independente,0,0
+1111,Sintra,PS,35.25,45724,1,0,5,esquerda,0,1
+1112,Sobral de Monte Agraço,PCP-PEV,42.89,2124,1,1,3,esquerda,0,1
+1113,Torres Vedras,PS,39.97,15253,1,1,5,esquerda,0,1
+1114,Vila Franca de Xira,PS,39.59,20640,1,0,5,esquerda,0,1
+1115,Amadora,PS,43.88,27221,1,1,7,esquerda,0,1
+1116,Odivelas,PS,44.84,24693,1,1,6,esquerda,0,1
+1201,Alter do Chão,PPD/PSD.CDS-PP,43.79,856,1,1,3,direita,1,0
+1202,Arronches,PPD/PSD,53.26,1038,1,1,3,direita,1,0
+1203,Avis,PCP-PEV,54.91,1337,1,1,3,esquerda,0,1
+1204,Campo Maior,PS,52.4,2224,1,1,3,esquerda,0,1
+1205,Castelo de Vide,PPD/PSD,50.4,1004,1,1,3,direita,1,0
+1206,Crato,PS,43.93,1009,1,0,2,esquerda,0,1
+1207,Elvas,MCPE,37.87,3906,1,0,3,independente,0,0
+1208,Fronteira,PPD/PSD,58.11,1082,1,1,4,direita,1,0
+1209,Gavião,PS,47.24,1051,1,1,3,esquerda,0,1
+1210,Marvão,PPD/PSD.CDS-PP,48.2,989,1,1,3,direita,1,0
+1211,Monforte,PCP-PEV,62.37,1119,1,1,4,esquerda,0,1
+1212,Nisa,PS,54.4,2071,1,1,3,esquerda,0,1
+1213,Ponte de Sor,PS,64.08,4559,1,1,6,esquerda,0,1
+1214,Portalegre,PPD/PSD.CDS-PP,38.39,4993,1,0,3,direita,1,0
+1215,Sousel,PS,62.18,1769,1,1,4,esquerda,0,1
+1301,Amarante,PPD/PSD.CDS-PP,52.49,16266,1,1,5,direita,1,0
+1302,Baião,PS,60.82,6928,1,1,5,esquerda,0,1
+1303,Felgueiras,L.PS,67.89,22074,1,1,7,esquerda,0,1
+1304,Gondomar,PS,46.89,33469,1,1,7,esquerda,0,1
+1305,Lousada,PS,58.78,16561,1,1,5,esquerda,0,1
+1306,Maia,PPD/PSD.CDS-PP,40.42,24732,1,1,6,direita,1,0
+1307,Marco de Canaveses,PS,59.04,17858,1,1,5,esquerda,0,1
+1308,Matosinhos,PS,43.62,30373,1,1,7,esquerda,0,1
+1309,Paços de Ferreira,PS,55.78,17901,1,1,4,esquerda,0,1
+1310,Paredes,PS,62.44,30651,1,1,7,esquerda,0,1
+1311,Penafiel,PPD/PSD.CDS-PP,60.51,26422,1,1,6,direita,1,0
+1312,Porto,RM,40.72,41167,1,0,6,independente,0,0
+1313,Póvoa de Varzim,PPD/PSD,51.65,14946,1,1,7,direita,1,0
+1314,Santo Tirso,PS,60.36,21420,1,1,7,esquerda,0,1
+1315,Valongo,PS,50.12,20194,1,1,6,esquerda,0,1
+1316,Vila do Conde,PS,42.41,18395,1,1,5,esquerda,0,1
+1317,Vila Nova de Gaia,PS,57.79,73712,1,1,9,esquerda,0,1
+1318,Trofa,PPD/PSD.CDS-PP,56.47,11898,1,1,5,direita,1,0
+1401,Abrantes,PS,55.79,9620,1,1,5,esquerda,0,1
+1402,Alcanena,PPD/PSD.CDS-PP.MPT,46.49,3150,1,1,4,direita,1,0
+1403,Almeirim,PS,68.28,5644,1,1,6,esquerda,0,1
+1404,Alpiarça,PS,43.3,1618,1,1,3,esquerda,0,1
+1405,Benavente,PCP-PEV,32.96,3590,1,0,3,esquerda,0,1
+1406,Cartaxo,PPD/PSD,46.58,5047,1,1,4,direita,1,0
+1407,Chamusca,PS,44.33,2056,1,1,3,esquerda,0,1
+1408,Constância,PS,58.71,1355,1,1,4,esquerda,0,1
+1409,Coruche,PS,50.5,4211,1,1,4,esquerda,0,1
+1410,Entroncamento,PS,32.45,2743,1,0,3,esquerda,0,1
+1411,Ferreira do Zêzere,PS,56.88,2823,1,1,3,esquerda,0,1
+1412,Golegã,2021ÉOANO,47.82,1500,1,1,3,independente,0,0
+1413,Mação,PPD/PSD,63.33,2647,1,1,4,direita,1,0
+1414,Rio Maior,PPD/PSD.CDS-PP,56.96,5679,1,1,5,direita,1,0
+1415,Salvaterra de Magos,PS,49.61,4126,1,1,5,esquerda,0,1
+1416,Santarém,PPD/PSD,37.42,10069,1,0,4,direita,1,0
+1417,Sardoal,PPD/PSD,45.22,1049,1,1,3,direita,1,0
+1418,Tomar,PS,39.7,7157,1,1,4,esquerda,0,1
+1419,Torres Novas,PS,45.27,7865,1,1,5,esquerda,0,1
+1420,Vila Nova da Barquinha,PS,54.99,1773,1,1,4,esquerda,0,1
+1421,Ourém,PPD/PSD.CDS-PP,62.78,13809,1,1,6,direita,1,0
+1501,Alcácer do Sal,PCP-PEV,48.09,3039,1,1,4,esquerda,0,1
+1502,Alcochete,PS,52.95,4732,1,1,5,esquerda,0,1
+1503,Almada,PS,39.87,28203,1,0,5,esquerda,0,1
+1504,Barreiro,PS,56.68,19559,1,1,7,esquerda,0,1
+1505,Grândola,PCP-PEV,44.54,2932,1,1,4,esquerda,0,1
+1506,Moita,PS,37.63,9257,1,0,4,esquerda,0,1
+1507,Montijo,PS,29.49,5897,1,0,3,esquerda,0,1
+1508,Palmela,PCP-PEV,31.42,7517,1,0,4,esquerda,0,1
+1509,Santiago do Cacém,PCP-PEV,43.25,5433,1,1,4,esquerda,0,1
+1510,Seixal,PCP-PEV,37.74,23485,1,0,5,esquerda,0,1
+1511,Sesimbra,PCP-PEV,34.3,6632,1,0,3,esquerda,0,1
+1512,Setúbal,PCP-PEV,34.4,15316,1,0,5,esquerda,0,1
+1513,Sines,PS,50.24,3041,1,1,4,esquerda,0,1
+1601,Arcos de Valdevez,PPD/PSD,58.28,8218,1,1,5,direita,1,0
+1602,Caminha,PS,46.79,4660,1,1,4,esquerda,0,1
+1603,Melgaço,PS,54.23,2246,1,1,4,esquerda,0,1
+1604,Monção,PPD/PSD,62.28,7306,1,1,5,direita,1,0
+1605,Paredes de Coura,PS,65.81,3332,1,1,4,esquerda,0,1
+1606,Ponte da Barca,PPD/PSD,46.6,3891,1,1,4,direita,1,0
+1607,Ponte de Lima,CDS-PP,43.38,11904,1,1,4,direita,1,0
+1608,Valença,PS,40.01,3423,1,0,3,esquerda,0,1
+1609,Viana do Castelo,PS,45.05,20970,1,1,5,esquerda,0,1
+1610,Vila Nova de Cerveira,PS,50.83,3065,1,1,3,esquerda,0,1
+1701,Alijó,PPD/PSD.CDS-PP,59.99,4441,1,1,5,direita,1,0
+1702,Boticas,PPD/PSD,73.55,2958,1,1,4,direita,1,0
+1703,Chaves,PS,54.55,12989,1,1,4,esquerda,0,1
+1704,Mesão Frio,PS,48.63,1258,1,1,3,esquerda,0,1
+1705,Mondim de Basto,PPD/PSD,48.93,2331,1,1,3,direita,1,0
+1706,Montalegre,PS,51.17,3837,1,1,4,esquerda,0,1
+1707,Murça,PPD/PSD,56.97,2249,1,1,3,direita,1,0
+1708,Peso da Régua,PPD/PSD,53.66,4827,1,1,4,direita,1,0
+1709,Ribeira de Pena,PS,54.96,2966,1,1,3,esquerda,0,1
+1710,Sabrosa,PS,28.86,1218,1,0,2,esquerda,0,1
+1711,Santa Marta de Penaguião,PS,57.32,2626,1,1,3,esquerda,0,1
+1712,Valpaços,PPD/PSD,73.84,7367,1,1,6,direita,1,0
+1713,Vila Pouca de Aguiar,PPD/PSD,64.95,5681,1,1,5,direita,1,0
+1714,Vila Real,PS,58.44,17472,1,1,5,esquerda,0,1
+1801,Armamar,PPD/PSD.CDS-PP,56.93,2210,1,1,3,direita,1,0
+1802,Carregal do Sal,PS,51.41,2868,1,1,3,esquerda,0,1
+1803,Castro Daire,PPD/PSD.CDS-PP,61.58,5811,1,1,5,direita,1,0
+1804,Cinfães,PS,61.87,6696,1,1,5,esquerda,0,1
+1805,Lamego,PPD/PSD.CDS-PP,45.28,6932,1,1,4,direita,1,0
+1806,Mangualde,PS,54.82,5773,1,1,4,esquerda,0,1
+1807,Moimenta da Beira,PS,54.58,3538,1,1,4,esquerda,0,1
+1808,Mortágua,PS,61.9,3226,1,1,3,esquerda,0,1
+1809,Nelas,PPD/PSD.CDS-PP,52.25,4004,1,1,4,direita,1,0
+1810,Oliveira de Frades,PPD/PSD.CDS-PP,45.35,2741,1,1,3,direita,1,0
+1811,Penalva do Castelo,PS,56.68,2893,1,1,3,esquerda,0,1
+1812,Penedono,PPD/PSD,48.26,943,1,1,3,direita,1,0
+1813,Resende,PS,49.01,3649,1,1,4,esquerda,0,1
+1814,Santa Comba Dão,PS,52.76,3323,1,1,4,esquerda,0,1
+1815,São João da Pesqueira,PNT,58.5,2680,1,1,3,independente,0,0
+1816,São Pedro do Sul,PS,59.61,5988,1,1,5,esquerda,0,1
+1817,Sátão,PPD/PSD,48.0,3651,1,1,4,direita,1,0
+1818,Sernancelhe,PPD/PSD,81.89,3228,1,1,5,direita,1,0
+1819,Tabuaço,PPD/PSD.CDS-PP,69.86,2318,1,1,4,direita,1,0
+1820,Tarouca,PPD/PSD,59.68,2676,1,1,3,direita,1,0
+1821,Tondela,PPD/PSD,44.92,7088,1,1,4,direita,1,0
+1822,Vila Nova de Paiva,PS,43.59,1419,1,0,2,esquerda,0,1
+1823,Viseu,PPD/PSD,46.68,24363,1,1,5,direita,1,0
+1824,Vouzela,PPD/PSD,59.07,3609,1,1,3,direita,1,0
+3101,Calheta,PPD/PSD,71.6,5048,1,1,6,direita,1,0
+3102,Câmara de Lobos,PPD/PSD,60.25,9845,1,1,6,direita,1,0
+3103,Funchal,PPD/PSD.CDS-PP,46.98,26841,1,1,6,direita,1,0
+3104,Machico,PS,51.57,5894,1,1,4,esquerda,0,1
+3105,Ponta do Sol,PS,53.98,2980,1,1,3,esquerda,0,1
+3106,Porto Moniz,PS,54.7,1147,1,1,3,esquerda,0,1
+3107,Ribeira Brava,RB1,63.19,4695,1,1,6,independente,0,0
+3108,Santa Cruz,JPP,54.08,11916,1,1,5,direita,1,0
+3109,Santana,CDS-PP,58.1,2719,1,1,4,direita,1,0
+3110,São Vicente,PPD/PSD.CDS-PP,70.48,2342,1,1,5,direita,1,0
+3201,Porto Santo,PPD/PSD.CDS-PP,50.87,1841,1,1,3,direita,1,0
+4101,Vila do Porto,PS,57.2,1728,1,1,3,esquerda,0,1
+4201,Lagoa,PS,62.63,4016,1,1,5,esquerda,0,1
+4202,Nordeste,PPD/PSD,69.96,2115,1,1,4,direita,1,0
+4203,Ponta Delgada,PPD/PSD,48.76,14059,1,1,5,direita,1,0
+4204,Povoação,PS,65.3,2576,1,1,4,esquerda,0,1
+4205,Ribeira Grande,PPD/PSD,61.42,9547,1,1,5,direita,1,0
+4206,Vila Franca do Campo,PS,50.25,2841,1,1,4,esquerda,0,1
+4301,Angra do Heroísmo,PS,52.86,9778,1,1,4,esquerda,0,1
+4302,Vila da Praia da Vitória,PPD/PSD.CDS-PP,43.91,4668,1,1,4,direita,1,0
+4401,Santa Cruz da Graciosa,PPD/PSD.CDS-PP.PPM,57.21,1594,1,1,3,direita,1,0
+4501,Calheta,«CCALHETA»,53.14,1245,1,1,3,independente,0,0
+4502,Velas,CDS-PP,66.34,2077,1,1,4,direita,1,0
+4601,Lajes do Pico,PS,56.17,1765,1,1,3,esquerda,0,1
+4602,Madalena,PPD/PSD,58.08,2254,1,1,3,direita,1,0
+4603,São Roque do Pico,PPD/PSD,60.89,1381,1,1,3,direita,1,0
+4701,Horta,PPD/PSD.CDS-PP.PPM,47.8,4033,1,1,4,direita,1,0
+4801,Lajes das Flores,PS,48.89,485,1,1,3,esquerda,0,1
+4802,Santa Cruz das Flores,PS,61.82,800,1,1,3,esquerda,0,1
+4901,Corvo,PS,59.71,166,1,1,3,esquerda,0,1

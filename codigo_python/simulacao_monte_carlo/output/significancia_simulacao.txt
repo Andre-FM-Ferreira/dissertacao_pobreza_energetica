@@ -1,0 +1,7 @@
+Teste da estatística t de Welch (não assume à priori que as variâncias são iguais):
+
+	Hipótese nula - a percentagem de indivíduos com consumo energético abaixo de 50% da mediana é idêntica nas simulações ao nível do município e ao nível da freguesia:
+		TtestResult(statistic=-6.866653102192398, pvalue=2.034391007488619e-11, df=481.71760437730813)
+
+	Hipótese nula - a mediana nas simulações ao nível do município e ao nível da freguesia é idêntica:
+		TtestResult(statistic=0.6591062258534849, pvalue=0.5101127380237838, df=531.9997063819769)
